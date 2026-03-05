@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/archanaa290406/archanaa_code_space/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/archanaa290406/archanaa_code_space/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
