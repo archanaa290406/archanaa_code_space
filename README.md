@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/archanaa290406/archanaa_code_space/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/archanaa290406/archanaa_code_space/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/archanaa290406/archanaa_code_space/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/archanaa290406/archanaa_code_space/tree/master/0217-contains-duplicate) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/archanaa290406/archanaa_code_space/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/archanaa290406/archanaa_code_space/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/archanaa290406/archanaa_code_space/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
